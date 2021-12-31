@@ -1,3 +1,8 @@
+## About
+In this repo I have some basic conceptual code of react.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
